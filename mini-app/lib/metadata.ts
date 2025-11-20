@@ -1,3 +1,3 @@
-export const title = "Mini App Factory App";
-export const description = "This app was created by the Mini App Factory!";
+export const title = "ToyT";
+export const description = "ToyT is a mobile app that lets users exchange, sell, or donate children's toys, fostering community and sustainability.";
 export const url = process.env.NEXT_PUBLIC_URL;
